@@ -56,7 +56,7 @@ Welcome to my technical portfolio. I'm an IT support candidate with hands-on exp
 - [LinkedIn](https://www.linkedin.com/in/suavesigley)  
 - [GitHub](https://github.com/suavesigley)  
 - [Resume](#) *(Add link to PDF or repo)*  
-- [Email](mailto:your.email@example.com)
+- [Email](upgradelifestyle@live.com.au)
 
 ---
 
