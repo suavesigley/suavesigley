@@ -24,7 +24,7 @@ Welcome to my technical portfolio. I'm an IT support candidate with hands-on exp
 ### 🧠 MITRE-Aligned Phishing Investigation Playbook  
 - Incident response workflow using MITRE ATT&CK  
 - Markdown-based ticketing logs and analysis  
-- [View Repo](#) *(Add link when ready)*
+- [View Repo](#) (https://github.com/suavesigley/SOC_Analyst_playbook)
 
 ### 🧨 Failed CTF Writeup – TryHackMe Challenge Analysis  
 - Full breakdown of failed penetration test  
@@ -34,7 +34,7 @@ Welcome to my technical portfolio. I'm an IT support candidate with hands-on exp
 ### 🛞 Hybrid Maintenance Logging System – Vehicle & Homelab  
 - IT-style logging applied to motorcycle and car diagnostics  
 - Templates for service tracking and parts documentation  
-- [View Repo](#) *(Add link when ready)*
+- [View Repo](#) (https://github.com/suavesigley/vehicle-logs) 
 
 ---
 
@@ -48,7 +48,7 @@ Welcome to my technical portfolio. I'm an IT support candidate with hands-on exp
 - LinkedIn Learning: Professional Networking  
 - Certificate III in Security Operations  
 - Blue Card – Working with Children Check (QLD) #2620757/1
-
+- [View Repo](#) https://github.com/suavesigley/my_cybersecurity_certificates
 ---
 
 ## 📫 Contact & Links
