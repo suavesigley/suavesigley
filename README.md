@@ -56,6 +56,7 @@ Welcome to my technical portfolio. I'm an IT support candidate with hands-on exp
 - [LinkedIn](https://www.linkedin.com/in/suavesigley)  
 - [GitHub](https://github.com/suavesigley)  
 - [Resume (View Online)](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fsuavesigley%2FResume_Joshua_Sigley%2Frefs%2Fheads%2Fmain%2Fresume_jsigley.docx&wdOrigin=BROWSELINK)  
+- [TryHackMe Profile] https://tryhackme.com/p/suavesigley
 - [Email](upgradelifestyle@live.com.au)
 
 ---
