@@ -24,7 +24,7 @@ Welcome to my technical portfolio. I'm an IT support candidate with hands-on exp
 ### 🧠 MITRE-Aligned Phishing Investigation Playbook  
 - Incident response workflow using MITRE ATT&CK  
 - Markdown-based ticketing logs and analysis  
-- [View Repo](#) (https://github.com/suavesigley/SOC_Analyst_playbook)
+- [View Repo](https://github.com/suavesigley/SOC_Analyst_playbook)
 
 ### 🧨 Failed CTF Writeup – TryHackMe Challenge Analysis  
 - Full breakdown of failed penetration test  
@@ -34,7 +34,7 @@ Welcome to my technical portfolio. I'm an IT support candidate with hands-on exp
 ### 🛞 Hybrid Maintenance Logging System – Vehicle & Homelab  
 - IT-style logging applied to motorcycle and car diagnostics  
 - Templates for service tracking and parts documentation  
-- [View Repo](#) (https://github.com/suavesigley/vehicle-logs) 
+- [View Repo](https://github.com/suavesigley/vehicle-logs) 
 
 ---
 
@@ -48,7 +48,7 @@ Welcome to my technical portfolio. I'm an IT support candidate with hands-on exp
 - LinkedIn Learning: Professional Networking  
 - Certificate III in Security Operations  
 - Blue Card – Working with Children Check (QLD) #2620757/1
-- [View Repo](#) https://github.com/suavesigley/my_cybersecurity_certificates
+- [View Repo](https://github.com/suavesigley/my_cybersecurity_certificates)
 ---
 
 ## 📫 Contact & Links
@@ -56,7 +56,7 @@ Welcome to my technical portfolio. I'm an IT support candidate with hands-on exp
 - [LinkedIn](https://www.linkedin.com/in/suavesigley)  
 - [GitHub](https://github.com/suavesigley)  
 - [Resume (View Online)](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fsuavesigley%2FResume_Joshua_Sigley%2Frefs%2Fheads%2Fmain%2Fresume_jsigley.docx&wdOrigin=BROWSELINK)  
-- [TryHackMe Profile] https://tryhackme.com/p/suavesigley
+- [TryHackMe Profile](https://tryhackme.com/p/suavesigley)
 - [Email](upgradelifestyle@live.com.au)
 
 ---
