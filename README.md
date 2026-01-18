@@ -42,7 +42,8 @@ Welcome to my technical portfolio. I'm an IT support candidate with hands-on exp
 
 - TryHackMe: Security Engineer, Pre-Security, Intro to Cybersecurity  
 - Forage: ANZ Cybersecurity, Deloitte Data Analytics, CommBank Cybersecurity  
-- Cisco Networking Academy:  
+- Cisco Networking Academy:
+- (2026) Datacom Introduction to cloud: Devops Engineering github action workflow.
   - Exploring Networking with Cisco Packet Tracer (Feb 2024)  
   - Getting Started with Cisco Packet Tracer (Feb 2024)  
 - LinkedIn Learning: Professional Networking  
