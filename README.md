@@ -36,6 +36,8 @@ Welcome to my technical portfolio. I'm an IT support candidate with hands-on exp
 
 ## 🎓 Certifications & Simulations
 
+- ISC2 Certified in Cybersecurity (CC) – September 2025
+- Google Cybersecurity Professional Certificate – in progress
 - TryHackMe: Security Engineer, Pre-Security, Intro to Cybersecurity  
 - Forage: ANZ Cybersecurity, Deloitte Data Analytics, CommBank Cybersecurity  
 - Cisco Networking Academy:
