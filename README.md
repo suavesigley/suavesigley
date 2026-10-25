@@ -26,10 +26,6 @@ Welcome to my technical portfolio. I'm an IT support candidate with hands-on exp
 - Markdown-based ticketing logs and analysis  
 - [View Repo](https://github.com/suavesigley/SOC_Analyst_playbook)
 
-### 🧨 Failed CTF Writeup – TryHackMe Challenge Analysis  
-- Full breakdown of failed penetration test  
-- Tool usage: Nmap, Burp Suite, Linux CLI  
-- [View Writeup](#) *(Add link when ready)*
 
 ### 🛞 Hybrid Maintenance Logging System – Vehicle & Homelab  
 - IT-style logging applied to motorcycle and car diagnostics  
