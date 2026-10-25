@@ -48,7 +48,7 @@ Welcome to my technical portfolio. I'm an IT support candidate with hands-on exp
   - Getting Started with Cisco Packet Tracer (Feb 2024)  
 - LinkedIn Learning: Professional Networking  
 - Certificate III in Security Operations  
-- Blue Card – Working with Children Check (QLD) #2620757/1
+- Blue Card – Working with Children Check (QLD)
 - [View Repo](https://github.com/suavesigley/my_cybersecurity_certificates)
 ---
 
