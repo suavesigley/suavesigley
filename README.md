@@ -17,8 +17,10 @@ Welcome to my technical portfolio. I'm an IT support candidate with hands-on exp
 ## 📁 Portfolio Projects
 
 ### 🛠 Project Hydra – Homelab Architecture & Logging System  
-- Virtualized Linux environment with Kali and Wireshark  
-- Git-based documentation of setup and troubleshooting  
+- Diagnosed and repaired five non-working computers using SystemRescue, then built them into a working home lab
+- Installed Kali Linux and Ubuntu Server, configured Samba file sharing, and administered the server remotely over SSH
+- Set up KVM virtualisation to run multiple VMs on one server
+- Documented every phase on GitHub, from diagnosis to resolution
 - [View Repo](https://github.com/suavesigley/Project-hydra-1.0)
 
 ### 🧠 MITRE-Aligned Phishing Investigation Playbook  
