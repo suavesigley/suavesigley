@@ -1,6 +1,7 @@
 # 👋 Joshua B. Sigley | Cybersecurity & IT Support Portfolio
 
 Welcome to my technical portfolio. I'm an IT support candidate with hands-on experience in cybersecurity, homelab architecture, and workflow documentation. I specialize in translating real-world diagnostics into technical logic and documenting both successes and failures with precision.
+Before IT, I worked as a social worker and in construction, which built my communication, composure under pressure, and reliability.
 
 ---
 
@@ -8,7 +9,7 @@ Welcome to my technical portfolio. I'm an IT support candidate with hands-on exp
 
 - **Cybersecurity:** TryHackMe labs, MITRE ATT&CK workflows, penetration testing (basic), incident response  
 - **Systems & Networking:** Kali Linux, Wireshark, Linux CLI, Cisco Packet Tracer, VirtualBox  
-- **Programming & Scripting:** Python (basic), Git, Markdown  
+- **Version Control & Documentation:** Git, Markdown  
 - **Documentation & Logging:** Ticketing-style workflows, hybrid maintenance logs, academic modeling  
 - **Transferable Skills:** Communication, customer service, project planning, compliance, adaptability
 
@@ -62,4 +63,4 @@ Welcome to my technical portfolio. I'm an IT support candidate with hands-on exp
 
 ---
 
-> “I document everything—especially the failures. That’s where the real learning happens.”
+
